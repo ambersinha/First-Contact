@@ -1,2 +1,5 @@
 # First-Contact
-Github repo for First Contact
+
+First Contact will be an interactive website that uncovers our daily encounters with artificial intelligence & explains how it makes sense of us.
+
+Everyday we use mobile and web apps that personalise our consumption of news and media; monitor our health; track our finances; suggest products; and even help us travel and eat. Personal assistants, like Siri, do this and much more. All these apps use AI. While our interactions with AI are increasing, we know little about when we deal with it how it “thinks” or “reasons.” When algorithms begin to understand us in ways that we do not truly comprehend, and even worse, make decisions about and for us, we run the danger the losing our autonomy. Without knowing when we are interacting with AI, and without, at least, a conceptual understanding of how AI and ML interpret our actions, we are at a disadvantage. First Contact will address this situation by bringing to light our everyday interactions with AI and ML, and by explaining how AI and ML work in each situation. The website will explain complex and opaque algorithms through easy-to-understand metaphors — in the form of animated videos, infographics and visual stories — as well as through interactive demos that show ML in action.
