@@ -28,10 +28,10 @@
 * https://www.livemint.com/Leisure/Fvt6pIwkcxjfpEeZasRx5H/Ola-Play-your-ridesharing-infotainment.html
 
 ### Hotstar
-https://analyticsindiamag.com/from-managing-ipl-traffic-to-personalising-shows-heres-why-ml-is-the-real-all-rounder-at-hotstar/
-https://blog.hotstar.com/machine-learning-for-personalized-experience-at-scale-27d625c284
-https://blog.hotstar.com/tagged/neural-networks
-https://www.hackerearth.com/problem/machine-learning/movies-recommendation-on-hotstar/
+* https://analyticsindiamag.com/from-managing-ipl-traffic-to-personalising-shows-heres-why-ml-is-the-real-all-rounder-at-hotstar/
+* https://blog.hotstar.com/machine-learning-for-personalized-experience-at-scale-27d625c284
+* https://blog.hotstar.com/tagged/neural-networks
+* https://www.hackerearth.com/problem/machine-learning/movies-recommendation-on-hotstar/
 
 ### Practo
 * https://hasgeek.tv/fifthelephant/fifthel-2017/1312-adapting-bandit-algorithms-to-optimise-user-experience-at-practo-santosh-gsk
@@ -79,3 +79,5 @@ https://www.hackerearth.com/problem/machine-learning/movies-recommendation-on-ho
 ### Finomena
 * https://yourstory.com/2017/02/finomena-2/
 
+### LinkedIn
+* https://factordaily.com/deepak-agarwal-artificial-intelligence-linkedin/
