@@ -26,7 +26,7 @@
 
 12. Eli Pariser, The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think. Reprint edition. New York, N.Y.: Penguin Books 2012.
 
-14. Taina Bucher, If...Then: Algorithmic Power and Politics, Oxford University Press 2018.
+14. Taina Bucher, If...Then: Algorithmic Power and Politics, Oxford University Press 2018. https://global.oup.com/academic/product/ifthen-9780190493035?cc=us&lang=en&
 
 ## Articles
 
@@ -67,6 +67,8 @@
 18. Burrell, Jenna. 2015. “How the Machine ‘Thinks:’ Understanding Opacity in Machine Learning Algorithms.” http://ssrn.com/abstract=2660674 
 
 19. Edelman, Benjamin. 2011. “Bias in Search Results? Diagnosis and Response.” Indian Journal of Law and Technology 7: 16-32. http://www.ijlt.in/archive/volume7/2_Edelman.pdf 
+
+20. Shadma Shaikh. 2018. Unlocking the Indian blue collar social graph with deep learning, trust scores. FactorDaily, August 1, 2018. https://factordaily.com/deep-learning-in-indian-blue-collar-social-graph/
 
 ## Projects
 
