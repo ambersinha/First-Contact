@@ -26,6 +26,8 @@
 
 12. Eli Pariser, The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think. Reprint edition. New York, N.Y.: Penguin Books 2012.
 
+14. Taina Bucher, If...Then: Algorithmic Power and Politics, Oxford University Press 2018.
+
 ## Articles
 
 1. Bernhard Rieder (2017) Scrutinizing an algorithmic technique: the Bayes classifier as interested reading of reality, Information, Communication & Society, 20:1, 100-117, DOI: 10.1080/1369118X.2016.1181195
