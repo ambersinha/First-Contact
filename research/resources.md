@@ -70,6 +70,8 @@
 
 20. Shadma Shaikh. 2018. Unlocking the Indian blue collar social graph with deep learning, trust scores. FactorDaily, August 1, 2018. https://factordaily.com/deep-learning-in-indian-blue-collar-social-graph/
 
+21. Douglas C. Schmidt. 2018. Google Data Collection. Digital Content Next, August 15, 2018. https://digitalcontentnext.org/wp-content/uploads/2018/08/DCN-Google-Data-Collection-Paper.pdf
+
 ## Projects
 
 1. David Gunning, Explainable Artificial Intelligence (XAI), https://www.darpa.mil/program/explainable-artificial-intelligence 
